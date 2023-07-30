@@ -1,63 +1,7 @@
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:0cm;
-	line-height:107%;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	color:black;}
-h1
-	{mso-style-link:"Heading 1 Char";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:.5pt;
-	text-indent:-.5pt;
-	line-height:107%;
-	page-break-after:avoid;
-	font-size:16.0pt;
-	font-family:"Calibri",sans-serif;
-	color:black;
-	font-weight:normal;}
-span.Heading1Char
-	{mso-style-name:"Heading 1 Char";
-	mso-style-link:"Heading 1";
-	font-family:"Calibri",sans-serif;
-	color:black;}
-.MsoPapDefault
-	{margin-bottom:8.0pt;
-	line-height:107%;}
-@page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 35.15pt 72.0pt 72.0pt;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
--->
-</style>
-
 
 <div class=WordSection1>
 
-<h1 style='margin-left:-.25pt'>Relevant Paper:-�� </h1>
+<h1 style='margin-left:-.25pt'>Relevant Paper: </h1>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:15.85pt;
 margin-left:-.25pt;text-indent:-.5pt;line-height:107%'><span style='font-size:
