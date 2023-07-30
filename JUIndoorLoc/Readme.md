@@ -25,13 +25,13 @@ margin-left:35.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
 -18.0pt;line-height:111%'><span style='font-family:Wingdings'>&#10146;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span dir=LTR></span>The
 data has been captured from 3<sup>rd</sup>, 4<sup>th</sup> and 5<sup>th</sup>
-floors of a five-storied building at Jadavpur University.� </p>
+floors of a five-storied building at Jadavpur University.  </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:1.2pt;
 margin-left:35.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
 -18.0pt;line-height:111%'><span style='font-family:Wingdings'>&#10146;<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span dir=LTR></span>JUIndoorLoc
-dataset, containing 25,364 samples,� is divided into two datasets:� </p>
+dataset, containing 25,364 samples,  is divided into two datasets:  </p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:1.2pt;
 margin-left:72.0pt;text-align:justify;text-justify:inter-ideograph;text-indent:
@@ -63,7 +63,7 @@ an AP was not detected. </p>
 <h1 style='margin-left:-.25pt'>Attributes Information of JUIndoorLoc dataset:- </h1>
 
 <p class=MsoNormal style='margin-bottom:3.45pt'><span style='font-size:4.0pt;
-line-height:107%'>�</span></p>
+line-height:107%'> </span></p>
 
 <table class=TableGrid border=0 cellspacing=0 cellpadding=0 width=652
  style='width:488.85pt;margin-left:-5.4pt;border-collapse:collapse'>
@@ -186,12 +186,12 @@ line-height:107%'>�</span></p>
   line-height:104%'>A unique identifier is assigned to each Android device,
   which is used to capture data. These device Identifiers are given below : D<sub>1</sub>
   : Samsung Galaxy Tab 2, Android version 4.1.1 </p>
-  <p class=MsoNormal style='margin-bottom:1.0pt'>D<sub>2</sub> ���������� :
+  <p class=MsoNormal style='margin-bottom:1.0pt'>D<sub>2</sub>            :
   Samsung Galaxy Tab E, Android version 5.0 </p>
-  <p class=MsoNormal style='margin-bottom:1.0pt'>D<sub>3</sub> ��������� :
+  <p class=MsoNormal style='margin-bottom:1.0pt'>D<sub>3</sub>           :
   Samsung Galaxy Tab 10, Android version 4.0 </p>
-  <p class=MsoNormal style='margin-bottom:0cm'>D<sub>4</sub> ��������� :
-  Motorola Moto E 2nd Generation, Android version 5.1� </p>
+  <p class=MsoNormal style='margin-bottom:0cm'>D<sub>4</sub>           :
+  Motorola Moto E 2nd Generation, Android version 5.1  </p>
   </td>
  </tr>
  <tr style='height:27.5pt'>
