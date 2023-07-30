@@ -58,8 +58,8 @@ margin-left:35.25pt;text-align:justify;text-justify:inter-ideograph;text-indent:
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span dir=LTR></span>The
 RSSI values are represented as negative integer values ranging -11dBm to
 -100dBm (extremely weak signal). A negative value -110 is used to denote when
-an AP was not detected.� </p>
-
+an AP was not detected. </p>
+<hr>
 <h1 style='margin-left:-.25pt'>Attributes Information of JUIndoorLoc dataset:- </h1>
 
 <p class=MsoNormal style='margin-bottom:3.45pt'><span style='font-size:4.0pt;
@@ -221,7 +221,7 @@ margin-left:.5pt;text-align:justify;text-justify:inter-ideograph;text-indent:
 style='font-size:16.0pt;line-height:111%'>:- </span>This dataset can only be
 used for academic purpose. </p>
 
-<p class=MsoNormal style='margin-bottom:12.1pt'>�</p>
+<hr>
 
 <p class=MsoNormal style='margin-bottom:.7pt;line-height:normal'><span
 style='color:#222222'>[1] Roy P, Chowdhury C, Ghosh D, Bandyopadhyay S.
